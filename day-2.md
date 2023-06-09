@@ -51,7 +51,7 @@ Other Types: NoneType (null value), complex (numbers with real and imaginary par
 ```
 
 ## 15 examples of an entity along with their attribute, value and data type
-1. Car:
+```1. Car:
 - Attributes: Model (string), year_of_make (int), Price (float)
 - Values: Hyndai i10, 2017, 700000.50
 
@@ -110,6 +110,7 @@ Other Types: NoneType (null value), complex (numbers with real and imaginary par
 15. Bank:
 - Attributes: name (string), location (string), total_assets (float), is_international (boolean)
 - Values: name = "HDFC", location = "Bangalore", total_assets = 5000000.0, is_international = True
+```
 
 # Decision making in Python
 Decision making in Python is typically implemented using **conditional statements**. Python provides several types of conditional statements to control the flow of a program based on certain conditions. The most commonly used conditional statements are:
