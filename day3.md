@@ -10,10 +10,7 @@
 7. How compilation will happen internally. Explain in detail
 8. Why Python is Dynamically typed programming Language. Explain
 9. Python is Platform independent.Explain
-10.Different ways to write python program.
-   Interactive, IDLE, CommandPrompt, IDE
-   Advantages, Disadvantages
-   
+10.Different ways to write python program. Interactive, IDLE, CommandPrompt, IDE   Advantages, Disadvantages
 11.sourcecode vs bytecode
 12.Register instruction set
 13.High Level vs Low level programming Language
