@@ -16,26 +16,36 @@
 - There are no separate compilation and execution steps like C and C++, Java
 - Directly run the program from the source code.
 - Internally, Python converts the source code into an intermediate form called **bytecodes** then which reads and executes the code line   by line by translating and run it.
+
 **Platform Independenet**
 - Python programs can be developed and executed on multiple operating system platforms.
 - Python can be used on Linux, Windows, Macbook, Solaris and many more.
+
 **Free and Open Source** - Redistributable
+
 **High Level Language
 - High-level languages are designed to be human-readable and programmer-friendly.
+
 **Simple** 
 - Closer to learning Mathematics basics in English medium. Easy to Learn
 - More emphasis on the solution to the problem rather than the syntax
+
 **Embeddable**
 - Python can be used within C/C++ program to give scripting capabilities for the program’s users.
+
 **Robust** 
 - Exceptional handling features
 - Memory management techniques in built
+
 **Easy-to-learn**
 - Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
+
 **Easy-to-read**
 - Python code is more clearly defined and visible to the eyes.
+
 **Easy-to-maintain**
 - source code is fairly easy-to-maintained
+
 **Databases**
 - Python provides interfaces to all major commercial databases.
 
