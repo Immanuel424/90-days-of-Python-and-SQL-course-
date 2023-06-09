@@ -29,7 +29,7 @@
 - It Exist Inbuilt functions for almost all of the frequntly used concepts.
 
 # Features of Python
-**Interprted** - 
+**Interpreted** - 
 - There are no separate compilation and execution steps like C and C++, Java
 - Directly run the program from the source code.
 - Internally, Python converts the source code into an intermediate form called **bytecodes** then which reads and executes the code line   by line by translating and run it.
