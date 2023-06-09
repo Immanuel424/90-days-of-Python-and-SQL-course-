@@ -13,6 +13,7 @@
 10.Different ways to write python program.
    Interactive, IDLE, CommandPrompt, IDE
    Advantages, Disadvantages
+   
 11.sourcecode vs bytecode
 12.Register instruction set
 13.High Level vs Low level programming Language
