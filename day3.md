@@ -23,7 +23,7 @@
 
 **Free and Open Source** - Redistributable
 
-**High Level Language
+**High Level Language**
 - High-level languages are designed to be human-readable and programmer-friendly.
 
 **Simple** 
@@ -78,7 +78,109 @@
    1 Performance
    2 Static Typing
 ```
+# .py vs .pyc files
+**.py**
+- .py is the file that we create and it contain exact sourcecode of the program
+**.pyc**
+- .pyc contains the bytecode  of the Program we get this file after compiling the .py file 
+   its not created for all the files we run ....when we import any file then it will create 
+   
+# How compilation will happen internally. Explain in detail
+- The process of compilation in programming languages involves transforming human-readable source code into machine-executable             instructions. While the specific steps may vary depending on the language and compiler implementation.
+1 Lexical Analysis:
+2 Syntax Analysis:
+3 Semantic Analysis:
+4 Intermediate Code Generation:
+5 Optimization
+6 Code Generation
+7 Linking 
+8 Executable Program
 
+# Why Python is Dynamically typed programming Language. Explain
+- Python is considered a dynamically typed programming language because variable types are determined and checked at runtime, rather than   being explicitly declared at compile time. In Python, you can assign values of different types to variables without explicitly           specifying their types.
+
+# Python is Platform independent.Explain
+- Python programs can be developed and executed on multiple operating system platforms.
+- Python can be used on Linux, Windows, Macbook, Solaris and many more.
+
+# Different ways to write python program, Interactive, IDLE, CommandPrompt, IDE Advantages, Disadvantages**
+
+**Interactive Mode**
+Advantages:
+- Allows you to execute Python code line by line and see immediate results.
+- Useful for experimenting, testing small code snippets, and learning Python interactively.
+- Provides a quick and easy way to explore Python's features and test ideas.
+Disadvantages:
+- Not suitable for writing larger programs or organizing complex code structures.
+- Lack of file management capabilities, making it difficult to save and reuse code.
+- Limited in terms of project management and code organization features.
+
+**IDLE (Integrated Development and Learning Environment)**
+Advantages:
+- Comes bundled with Python and provides a basic integrated development environment.
+- Offers features like code highlighting, code completion, and a Python shell for interactive testing.
+- Suitable for beginners and small-scale projects with simpler requirements.
+Disadvantages:
+- Lacks advanced features found in more powerful IDEs.
+- May feel limited in terms of customization and extensibility options.
+- Not as robust or feature-rich as dedicated IDEs.
+
+**Command Prompt (Terminal)**
+Advantages:
+- Provides a lightweight and efficient way to run Python programs.
+- Suitable for running scripts and automated tasks from the command line.
+- Useful for executing Python programs in a server environment or through scripts.
+Disadvantages:
+- Lacks the convenience of an integrated development environment.
+- Limited in terms of code editing features and interactivity.
+- Requires manual management of files and dependencies.
+
+**Integrated Development Environments (IDEs)**
+Advantages:
+- Offers a comprehensive set of features for writing, testing, and debugging code.
+- Provides code editors with syntax highlighting, code completion, and debugging tools.
+- Offers project management features, version control integration, and code refactoring capabilities.
+- Allows for efficient code navigation and organization.
+Disadvantages:
+- Can be resource-intensive and slower to start compared to simpler tools.
+- May have a steeper learning curve, especially for beginners.
+- Some IDEs are not as lightweight and may consume more system resources.
+
+# sourcecode vs bytecode
+```
+         SOURCECODE                                      BYTECODE 
+- Easily readable and understandable         - Not intended for human reading
+- Not directly executable                    - Executable by the Python interpreter
+- Not compiled                               - Generated through compilation process
+- Typically larger                           - Typically Smaller
+- can be Modified and Updated                - Not Intended for manual Modification 
+- Distributed as source code files           - Distributed as compiled bytecode files
+```
+
+# Register instruction set
+- Register instruction set refers to a type of computer architecture that utilizes registers as the primary storage locations for           executing instructions. In a register-based instruction set, instructions directly operate on the data stored in registers, which are     high-speed memory locations within the CPU.
+
+# High Level vs Low level programming Language
+```
+     High Level Language                                                  Low Level Language 
+- Generally more readable and closer to human language         - Less readable and closer to machine language
+- Automatic memory management (garbage collection)             - Manual memory management
+- Easier to learn and use for beginners                        - Steeper learning curve and more technical requirements
+- Examples - Python, Java, C#, JavaScript                      - Examples - Assembly language, C, C++
+```
+
+# Python architecture
+**Source Code**: Python programs are written in plain text files with a .py extension. These files contain the instructions and lo         written by the programmer.
+**Interpreter**: The Python interpreter is responsible for executing Python programs. It reads the source code, converts it into           instructions that the computer can understand, and executes them line by line.
+**Compiler**  : The Python interpreter includes a compiler that converts the source code into a lower-level representation called           bytecode. Bytecode is a set of instructions that can be executed by the Python Virtual Machine (PVM).
+**Bytecode**   : Bytecode is a binary format that represents the compiled Python code. It is stored in .pyc or .pyo files (compiled         Python files) for faster execution in subsequent runs.
+**Python Virtual Machine (PVM)** : The PVM is a runtime environment that executes the bytecode. It interprets the instructions and performs the necessary operations, such as memory management, object creation, and exception handling.
+**Standard Library**: Python comes with a comprehensive standard library that provides a wide range of modules and functions for cotasks. The standard library covers areas such as file handling, networking, math operations, and more.
+**Extension Modules**: Python allows the integration of extension modules written in other languages like C or C++. These modules provide additional functionality and can be used alongside Python code.
+
+
+# Explain Garbage Collection mechanism in detail.
+- Garbage collection is an automatic memory management mechanism in programming languages that helps reclaim memory that is no longer       needed by the program. It relieves the programmer from manually allocating and deallocating memory, reducing the risk of memory leaks     and memory-related bugs. 
 
 
    
