@@ -19,8 +19,8 @@
 
 # Tell me about Python?
 **Python** is a general Purpose, **Dynamic**, Highlevel, **Interpreted** programming language, it was created by Guido van Rossum during 1985- 1990 
-- General Purpose- is a programming language that can create all types of programs.
-- Dynamic - Python is dynamically typed, which means we don't need to declare the type of a variable. we can assign values of any type to   a variable, and the type is determined at runtime based on the assigned value. For example, we can assign an integer to a variable and   later assign a string to the same variable without any explicit type declarations.
+- **General Purpose** - is a programming language that can create all types of programs.
+- **Dynamic** - Python is dynamically typed, which means we don't need to declare the type of a variable. we can assign values of any type to   a variable, and the type is determined at runtime based on the assigned value. For example, we can assign an integer to a variable and   later assign a string to the same variable without any explicit type declarations.
 
 # Why Python is so popular now a days?
 - Becuase it is easy to learn and Use and its is code readability, easy to understand the syntax
