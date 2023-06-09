@@ -26,7 +26,7 @@
 - Becuase it is easy to learn and Use and its is code readability, easy to understand the syntax
 - Programmers can express logical concepts in fewer lines or in simple syntax, compare to C++ or JAVA
 - Because of its Versatile Nature -Python is a versatile language that can be used for a wide range of applications. It has extensive       libraries and frameworks that support web development, data analysis, machine learning, automation, and more.
-- It Exist Inbuilt functions for almost all of the frequntly uned concepts.
+- It Exist Inbuilt functions for almost all of the frequntly used concepts.
 
 # Features of Python
 **Interprted** - 
