@@ -106,41 +106,49 @@
 # Different ways to write python program, Interactive, IDLE, CommandPrompt, IDE Advantages, Disadvantages**
 
 **Interactive Mode**
+
 Advantages:
 - Allows you to execute Python code line by line and see immediate results.
 - Useful for experimenting, testing small code snippets, and learning Python interactively.
 - Provides a quick and easy way to explore Python's features and test ideas.
+
 Disadvantages:
 - Not suitable for writing larger programs or organizing complex code structures.
 - Lack of file management capabilities, making it difficult to save and reuse code.
 - Limited in terms of project management and code organization features.
 
 **IDLE (Integrated Development and Learning Environment)**
+
 Advantages:
 - Comes bundled with Python and provides a basic integrated development environment.
 - Offers features like code highlighting, code completion, and a Python shell for interactive testing.
 - Suitable for beginners and small-scale projects with simpler requirements.
+
 Disadvantages:
 - Lacks advanced features found in more powerful IDEs.
 - May feel limited in terms of customization and extensibility options.
 - Not as robust or feature-rich as dedicated IDEs.
 
 **Command Prompt (Terminal)**
+
 Advantages:
 - Provides a lightweight and efficient way to run Python programs.
 - Suitable for running scripts and automated tasks from the command line.
 - Useful for executing Python programs in a server environment or through scripts.
+
 Disadvantages:
 - Lacks the convenience of an integrated development environment.
 - Limited in terms of code editing features and interactivity.
 - Requires manual management of files and dependencies.
 
 **Integrated Development Environments (IDEs)**
+
 Advantages:
 - Offers a comprehensive set of features for writing, testing, and debugging code.
 - Provides code editors with syntax highlighting, code completion, and debugging tools.
 - Offers project management features, version control integration, and code refactoring capabilities.
 - Allows for efficient code navigation and organization.
+
 Disadvantages:
 - Can be resource-intensive and slower to start compared to simpler tools.
 - May have a steeper learning curve, especially for beginners.
@@ -170,12 +178,19 @@ Disadvantages:
 ```
 
 # Python architecture
+
 **Source Code**: Python programs are written in plain text files with a .py extension. These files contain the instructions and lo         written by the programmer.
+
 **Interpreter**: The Python interpreter is responsible for executing Python programs. It reads the source code, converts it into           instructions that the computer can understand, and executes them line by line.
+
 **Compiler**  : The Python interpreter includes a compiler that converts the source code into a lower-level representation called           bytecode. Bytecode is a set of instructions that can be executed by the Python Virtual Machine (PVM).
+
 **Bytecode**   : Bytecode is a binary format that represents the compiled Python code. It is stored in .pyc or .pyo files (compiled         Python files) for faster execution in subsequent runs.
+
 **Python Virtual Machine (PVM)** : The PVM is a runtime environment that executes the bytecode. It interprets the instructions and performs the necessary operations, such as memory management, object creation, and exception handling.
+
 **Standard Library**: Python comes with a comprehensive standard library that provides a wide range of modules and functions for cotasks. The standard library covers areas such as file handling, networking, math operations, and more.
+
 **Extension Modules**: Python allows the integration of extension modules written in other languages like C or C++. These modules provide additional functionality and can be used alongside Python code.
 
 
