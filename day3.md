@@ -96,6 +96,7 @@
 # .py vs .pyc files
 **.py**
 - .py is the file that we create and it contain exact sourcecode of the program
+- 
 **.pyc**
 - .pyc(pycache) contains the bytecode  of the Program we get this file after compiling the .py file 
    its not created for all the files we run ....when we import any file then it will create 
