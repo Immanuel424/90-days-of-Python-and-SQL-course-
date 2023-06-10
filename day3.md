@@ -183,7 +183,7 @@ Disadvantages:
 ```
 
 # Register instruction set
-- Register instruction set refers to a type of computer architecture that utilizes registers as the primary storage locations for           executing instructions. In a register-based instruction set, instructions directly operate on the data stored in registers, which are     high-speed memory locations within the CPU.
+- Register are fast acess memory Location that holds temporory data during the execution of Instructions, it handles internally by the     Python Interpreter to execute the code Efficiently. 
 
 # High Level vs Low level programming Language
 ```
@@ -191,9 +191,9 @@ Disadvantages:
 - Generally more readable and closer to human language         - Less readable and closer to machine language
 - Automatic memory management (garbage collection)             - Manual memory management
 - Easier to learn and use for beginners                        - Steeper learning curve and more technical requirements
-- Examples - Python, Java, C#, JavaScript                      - Examples - Assembly language, C, C++
+- Examples - Python, Java, C#, JavaScript,C, C++               - Examples - Assembly language, Machine code language 
 ```
-
+```
 # Python architecture
 
 **Source Code**: Python programs are written in plain text files with a .py extension. These files contain the instructions and lo         written by the programmer.
@@ -210,6 +210,8 @@ Disadvantages:
 
 **Extension Modules**: Python allows the integration of extension modules written in other languages like C or C++. These modules provide additional functionality and can be used alongside Python code.
 
+**This combination enables the execution of python program across different platforms and facilitates the development of versatile application**
+```
 
 # Explain Garbage Collection mechanism in detail.
 - Garbage collection is an automatic memory management mechanism in programming languages that helps reclaim memory that is no longer       needed by the program. It relieves the programmer from manually allocating and deallocating memory, reducing the risk of memory leaks     and memory-related bugs. 
