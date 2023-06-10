@@ -193,24 +193,17 @@ Disadvantages:
 - Easier to learn and use for beginners                        - Steeper learning curve and more technical requirements
 - Examples - Python, Java, C#, JavaScript,C, C++               - Examples - Assembly language, Machine code language 
 ```
-```
+
 # Python architecture
-
 **Source Code**: Python programs are written in plain text files with a .py extension. These files contain the instructions and lo         written by the programmer.
-
 **Interpreter**: The Python interpreter is responsible for executing Python programs. It reads the source code, converts it into           instructions that the computer can understand, and executes them line by line.
-
 **Compiler**  : The Python interpreter includes a compiler that converts the source code into a lower-level representation called           bytecode. Bytecode is a set of instructions that can be executed by the Python Virtual Machine (PVM).
-
 **Bytecode**   : Bytecode is a binary format that represents the compiled Python code. It is stored in .pyc or .pyo files (compiled         Python files) for faster execution in subsequent runs.
-
-**Python Virtual Machine (PVM)** : The PVM is a runtime environment that executes the bytecode. It interprets the instructions and performs the necessary operations, such as memory management, object creation, and exception handling.
-
-**Standard Library**: Python comes with a comprehensive standard library that provides a wide range of modules and functions for cotasks. The standard library covers areas such as file handling, networking, math operations, and more.
-
-**Extension Modules**: Python allows the integration of extension modules written in other languages like C or C++. These modules provide additional functionality and can be used alongside Python code.
-
-**This combination enables the execution of python program across different platforms and facilitates the development of versatile application**
+**Python Virtual Machine (PVM)** : The PVM is a runtime environment that executes the bytecode. It interprets the instructions and         performs the necessary operations, such as memory management, object creation, and exception handling.
+**Standard Library**: Python comes with a comprehensive standard library that provides a wide range of modules and functions for cotasks.   The standard library covers areas such as file handling, networking, math operations, and more.
+**Extension Modules**: Python allows the integration of extension modules written in other languages like C or C++. These modules provide   additional functionality and can be used alongside Python code.
+```
+**This combination enables the execution of python program across different platforms and facilitates the development of versatile         application**
 ```
 
 # Explain Garbage Collection mechanism in detail.
