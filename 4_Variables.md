@@ -46,9 +46,9 @@ Numbers are of 3 types
 ```
  Example ---> Will take any Entity
                Entity Name - Employee
-               Attributes -     Emp_name,      Emp_id,      Emp_Adress,       is_permanent
-               State -         "Immanuel",      101,        "Vijayapura",         True
-               DATA TYPE -       String,      Integer        String             Boolean
+               Attributes ----->     Emp_name       Emp_id        Emp_Adress        is_permanent
+               State      ----->    "Immanuel"       101         "Vijayapura"         True
+               DATA TYPE  ----->      String       Integer          String           Boolean
 ```
 ## Varible Assignment
 
