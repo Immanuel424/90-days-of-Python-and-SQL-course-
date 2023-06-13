@@ -40,9 +40,7 @@ Numbers are of 3 types
   ---> False -  1bit     0  
 
 3 **String**--> String is one of the data type in python --> Anything which is enclosed with Single/Double coated, that we can call it as String. 
-                Example -- "Hello World"
-                
-                           "Immanuel",  "VN2 Data"
+                Example -- "Hello World",   "Immanuel",    "VN2 Data"
            
 **FOR UNDERSTANDING DATA TYPES WILL SEE ONE EXAMPLE**
 ```
