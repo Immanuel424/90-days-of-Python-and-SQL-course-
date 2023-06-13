@@ -10,6 +10,7 @@ Here **X** is Variable, which is holding the value 20
 It will be done by 2 methods,
 
 1 Write Operation
+
 2 Read Operation 
 # 1 Write Operation
 - Whenever we assign any value/data to the variable **First it starts execute from RHS**
