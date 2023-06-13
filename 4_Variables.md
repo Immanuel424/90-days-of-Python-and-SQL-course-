@@ -30,8 +30,8 @@ Example --- x = 20
 1 **Numbers** 
 Numbers are of 3 types
 - **Integers** = 10, 20, 40...etc (*Integers are whole Numbers*)
-- **Float** = 10.4, 33.5, 27.4...etc ( Float for any numbers which as decimals in it)
-- **Complex** = 4+2j (Complex is for any expression which ha real and Imaginary Part)
+- **Float** = 10.4, 33.5, 27.4...etc (*Float for any numbers which as decimals in it*)
+- **Complex** = 4+2j (*Complex is for any expression which ha real and Imaginary Part*)
 
 2 **Boolean** --> Booleans are **True or False type**,whenever we need to do decision making that time we use **Boolean data type**.
 
@@ -39,7 +39,7 @@ Numbers are of 3 types
   
   ---> False -  1bit   0  
 
-3 **String**--> String is one of the data type in python --> Anything which is enclosed with Single/Double coated that we can call it as                 String 
+3 **String**--> String is one of the data type in python --> Anything which is enclosed with Single/Double coated, that we can call it as String 
                 Example -- "Hello World"
                 "Immanuel", "VN2 Data"
            
