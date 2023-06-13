@@ -48,12 +48,12 @@ Numbers are of 3 types
 ```
 ## Varible Assignment
 
-1 Assigning single Value to the Multiple Variable 
+1 **Assigning single Value to the Multiple Variable** - 
 Python allow us to assign a single value to the Multiple Variable 
 ``` Example --> a,b,c = 25 ```
 Here, 25 is an Integer value and all three variables assigned to the same memory location.
 
-2 Assigning Multiple Values to the Multiple Variables
+2 **Assigning Multiple Values to the Multiple Variables** -
 Python allows us to assign Multiple values to the Multiple Variable in single syntax 
 ``` Example --> a, b, c = 2, 4.7, "Immanuel" ```
 
