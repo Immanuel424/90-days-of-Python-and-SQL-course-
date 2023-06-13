@@ -101,7 +101,7 @@ Example ---> Pi - 3.14
 - Identifiers can be combination of **Uppercase and Lowercase Letters, digits or an underscore(_)**.
 - An Identifier **cannot start with a digit**.
 - we cant use special symbols like **!,#,@,%,$** etc, in our identifiers.
-- Identifier can be pf any length.
+- Identifier can be of any length.
  
 
 
