@@ -32,16 +32,11 @@ Numbers are of 3 types
 - **Float** = 10.4, 33.5, 27.4...etc ( Float for any numbers which as decimals in it)
 - **Complex** = 4+2j (Complex is for any expression which ha real and Imaginary Part)
 
-2 **Boolean** 
+2 **Boolean** --> Booleans are **True or False type**,whenever we need to do decision making that time we use **Boolean data type**. 
 
-Booleans are **True or False type**.
-whenever we need to do decision making that time we use **Boolean data type**. 
-
-3 **String**
-
-String is one of the data type in python --> Anything which is enclosed with Single/Double coated that we can call it as String 
-Example -- "Hello World"
-           "Immanuel", "VN2 Data"
+3 **String**--> String is one of the data type in python --> Anything which is enclosed with Single/Double coated that we can call it as                 String 
+                Example -- "Hello World"
+                "Immanuel", "VN2 Data"
            
 **FOR UNDERSTANDING DATA TYPES WILL SEE ONE EXAMPLE**
 ```
@@ -51,4 +46,16 @@ Example -- "Hello World"
                State -       "Immanuel",    101,      "Vijayapura",     True
                DATA TYPE -     String,     Integer       String        Boolean
 ```
+## Varible Assignment
+
+1 Assigning single Value to the Multiple Variable 
+Python allow us to assign a single value to the Multiple Variable 
+``` Example --> a,b,c = 25 ```
+Here, 25 is an Integer value and all three variables assigned to the same memory location.
+2 Assigning Multiple Values to the Multiple Variables
+Python allows us to assign Multiple values to the Multiple Variable in single syntax 
+``` Example --> a, b, c = 2, 4.7, "Immanuel" ```
+
+
+
 
