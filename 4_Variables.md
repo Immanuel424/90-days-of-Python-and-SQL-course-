@@ -62,7 +62,7 @@ Here, 25 is an Integer value and all three variables assigned to the same memory
 2 **Assigning Multiple Values to the Multiple Variables** -
 Python allows us to assign Multiple values to the Multiple Variable in single syntax 
 ```
-Example --> a, b, c = 2, 4.7, "Immanuel" 
+Example --> a,    b,    c   =   2,    4.7,    "Immanuel" 
 ```
 
 
@@ -80,12 +80,16 @@ Identifiers                Operators                  Literals
 ```
 
 1 **Identifiers** -Usually Identifier is a Variable. A python identifier is a name used to identify the Variable,Function,classes,modules
+
 2 **Operators** - Operator are the special symbols in python that carryout arithmetic or logical computition.
+
 3 **literals** - Literals are raw values or data that are stored in variables/constants.
-4 **Keywords** - Keywords are the unique/reserved words with defined meaning, that we can only apply on for those functions, and we                        cannot use those keywords as a variables.
+
+4 **Keywords** - Keywords are the unique/reserved words with defined meaning, that we can only apply on for those functions, and we cannot use those keywords as a                      variables.
 
 ```
 Different keywords as follows
+
 False, None, True, and, as, assert, async, await, break, class, continue,
 def, del, elif, else, execpt, finally, for, from, global, if, import, in, 
 is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield.
