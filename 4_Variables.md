@@ -33,10 +33,12 @@ Numbers are of 3 types
 - **Complex** = 4+2j (Complex is for any expression which ha real and Imaginary Part)
 
 2 **Boolean** 
+
 Booleans are **True or False type**.
 whenever we need to do decision making that time we use **Boolean data type**. 
 
 3 **String**
+
 String is one of the data type in python --> Anything which is enclosed with Single/Double coated that we can call it as String 
 Example -- "Hello World"
            "Immanuel", "VN2 Data"
