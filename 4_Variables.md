@@ -19,7 +19,7 @@ It will be done by 2 methods,
 - if the **Variable** contains **Expression**--> Python **First simplifies the Expression** and gets the **final value** for that and                                                      that **value** will be converted to **Binary format**.
 - for that Binary format -- **(memory allocation adress)** will be assign and the same **memory address** will be given to the *variable* 
 # 2 Read Operation 
-Read operation is nothing but **once the memory allocation adress is given to the variable, Python will got the adress of the variable and it will take the binary value from that adress and convert it to decimal format and retrieve the result**.
+Read operation is nothing but **once the memory allocation adress is given to the variable, Python will go to the adress of the variable and it will take the binary value from that adress and convert it to decimal format and retrieve the result**.
 ```
 Example --- x = 20 
             print(x) ---->> read Operation 
