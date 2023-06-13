@@ -54,14 +54,16 @@ Numbers are of 3 types
 
 1 **Assigning single Value to the Multiple Variable** - 
 Python allow us to assign a single value to the Multiple Variable 
-
-``` Example --> a,b,c = 25 
-Here, 25 is an Integer value and all three variables assigned to the same memory location.```
+```
+Example --> a,b,c = 25 
+Here, 25 is an Integer value and all three variables assigned to the same memory location.
+```
 
 2 **Assigning Multiple Values to the Multiple Variables** -
 Python allows us to assign Multiple values to the Multiple Variable in single syntax 
-
-``` Example --> a, b, c = 2, 4.7, "Immanuel" ```
+```
+Example --> a, b, c = 2, 4.7, "Immanuel" 
+```
 
 
 ## TOKENS AND THEIR TYPES 
@@ -81,15 +83,19 @@ Identifiers                Operators                  Literals
 2 **Operators** - Operator are the special symbols in python that carryout arithmetic or logical computition.
 3 **literals** - Literals are raw values or data that are stored in variables/constants.
 4 **Keywords** - Keywords are the unique/reserved words with defined meaning, that we can only apply on for those functions, and we                        cannot use those keywords as a variables.
+
 ```
 Different keywords as follows
 False, None, True, and, as, assert, async, await, break, class, continue,
 def, del, elif, else, execpt, finally, for, from, global, if, import, in, 
 is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield.
 ```
+
 5 **Constants** - Constants are the special type of variables, whose values are cannot be changed.
-``` Example ---> Pi - 3.14
-             Gravity - 9.8 ```
+```
+Example ---> Pi - 3.14
+             Gravity - 9.8
+```
  
 
 
