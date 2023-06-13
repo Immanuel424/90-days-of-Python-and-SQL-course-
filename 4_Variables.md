@@ -81,11 +81,13 @@ Identifiers                Operators                  Literals
 4 **Keywords** - Keywords are the unique/reserved words with defined meaning, that we can only apply on for those functions, and we                        cannot use those keywords as a variables.
 ```
 Different keywords as follows
-False, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, execpt, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield.
+False, None, True, and, as, assert, async, await, break, class, continue,
+def, del, elif, else, execpt, finally, for, from, global, if, import, in, 
+is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield.
 ```
 5 **Constants** - Constants are the special type of variables, whose values are cannot be changed.
-Example ---> Pi - 3.14
-             Gravity - 9.8
+``` Example ---> Pi - 3.14
+             Gravity - 9.8 ```
  
 
 
