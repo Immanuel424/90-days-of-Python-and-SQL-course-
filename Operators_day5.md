@@ -134,5 +134,15 @@ Result ===> x ** y = 10000
 ```
 
 # Python Comparision Operators
-> The name itself is explaining that this operator is used to compare different things or values with one another.Comparison operator is also termed as a relational operator because it   explains the connection between them.
+
+- The name itself is explaining that this operator is used to compare different things or values with one another. Comparison operator is also termed as a relational operator because it   explains the connection between them.
+
+> The Different Comparision operators are as follows
+  - == Equal
+  - != Not Equal
+  - <> Two Operands are not equal
+  - > Greater Than
+  - < Less Than
+  - >= Greater Than or Equal to
+  - <= Less Than or Equal to
 
