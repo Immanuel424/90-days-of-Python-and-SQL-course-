@@ -81,7 +81,7 @@
  
  ```
   
-**Python(/)Division Operator
+**Python(/)Division Operator**
 
 - Division operator in python being used to divide the given values.
 
