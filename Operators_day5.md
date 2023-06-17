@@ -17,3 +17,22 @@
   - Special Operators
       1. Identity Operators
       2. Membership Operators
+
+# Arthimetic Operators
+  Arthimetic Operators are used to executing the mathematical functions in python which includes Addition, Subtraction, Multiplication, Division, etc
+  ```
+         Operators                      Description                                Examples
+         + Plus                  Add two numbers                                   3+3 = 6
+         - Minus                 Right hand Operand subtracted                    20-10 = 10
+                                 from the left hand operand.
+         * Multiplication        It Multiplies the values on either               10*10 = 100
+                                 side of the operands.
+         / Division              left hand operand divided by                      5/2 = 2.5
+                                 right hand operand.
+         % Percent               It divides the left hand operand                   6%2 = 3
+                                 by right hand one and also returns reminder.
+         // Floor division       Division that results into whole number           >>> 5/2= 2.5  
+                                 adjusted to the left in the number line.          >>> 5/2= 2
+         **Exponent              Left operand is raised to the power of right     10 to the power of 30
+  ```
+  
