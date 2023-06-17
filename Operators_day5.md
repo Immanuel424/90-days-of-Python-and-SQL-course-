@@ -93,3 +93,16 @@ output : x/5
 print ("x/y:", output)
 Result ===> x / y = 2
 ```
+
+**Python(%)percentile Operator**
+
+- Percentile operator in python being used to get the remainder value once the values get divide.
+
+**Program**
+```
+x = 10
+y = 3
+output : x % y
+print ("x % y:", output)
+Result ===> x % y = 1
+```
