@@ -132,3 +132,7 @@ output : x ** y
 print ("x ** y:", output)
 Result ===> x ** y = 10000
 ```
+
+# Python Comparision Operators
+> The name itself is explaining that this operator is used to compare different things or values with one another.Comparison operator is also termed as a relational operator because it   explains the connection between them.
+
