@@ -107,7 +107,7 @@ print ("x % y:", output)
 Result ===> x % y = 1
 ```
 
-**Python(//)Floor Division Operator
+**Python(//)Floor Division Operator**
 
 - Floor Division operator in python is once the value get divided then the remainder if any decimal value then it adjusted to give only integer value.
 
@@ -120,7 +120,7 @@ print ("x // y:", output)
 Result ===> x // y = 2
 ```
 
-**Python()Exponent Operator
+**Python()Exponent Operator**
 
 - Exponent operator is used in Python to perform exponential (power) calculations by using operators.
 
