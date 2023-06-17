@@ -55,5 +55,16 @@
     
   **Python (-) Subtract Operator**
   
-  - 
+  - Subtract Operator in python being used to subtract the values it usually Subtract the right hand operand from left hand operand.
+
+   **Program**
+   
+   ```
+   x = 20
+   y = 10
+   output = x - y
+   print ("x - y:", output)
+   Result ===> x - y : 10
+   
+   ```
   
