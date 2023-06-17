@@ -15,5 +15,5 @@
   - Bitwise Operators
   - Membership Operators
   - Special Operators
-      Identity Operators
-      Membership Operators
+      1. Identity Operators
+      2. Membership Operators
