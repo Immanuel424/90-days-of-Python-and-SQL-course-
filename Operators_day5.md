@@ -68,7 +68,7 @@
    
  **Python()Multiplication Operator**
  
- - Multiplication operator in python being used to Multiply the values given
+ - Multiplication operator in python being used to Multiply the values given.
  
  **Program**
  
@@ -81,3 +81,15 @@
  
  ```
   
+**Python(/)Division Operator
+
+- Division operator in python being used to divide the given values.
+
+**Program**
+```
+x = 10
+y = 5
+output : x/5
+print ("x/y:", output)
+Result ===> x / y = 2
+```
