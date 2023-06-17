@@ -42,7 +42,7 @@
   
   - Addition Operator in python is being used to add two operand values in python programming language.
     
-    **Program**
+  **Program**
     
     ```
     x = 10
