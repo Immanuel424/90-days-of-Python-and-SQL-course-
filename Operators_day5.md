@@ -137,7 +137,7 @@ Result ===> x ** y = 10000
 
 - The name itself is explaining that this operator is used to compare different things or values with one another. Comparison operator is also termed as a relational operator because it   explains the connection between them.
 
-> The Different Comparision operators are as follows
+  The Different Comparision operators are as follows
   - == Equal
   - != Not Equal
   - <> Two Operands are not equal
