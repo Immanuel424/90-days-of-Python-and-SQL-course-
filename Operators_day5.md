@@ -50,7 +50,6 @@
     output = x + y
     print ("x + y:", output)
     Result ===> x + y : 20
-    
     ```
     
   **Python (-)Subtract Operator**
