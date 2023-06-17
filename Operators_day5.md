@@ -39,7 +39,6 @@
   ```
   
   **Python (+)Addition Operator**
-  
     Addition Operator in python is being used to add two operand values in python programming language.
     
     **Program**
