@@ -19,7 +19,9 @@
       2. Membership Operators
 
 # Arthimetic Operators
+
   Arthimetic Operators are used to executing the mathematical functions in python which includes Addition, Subtraction, Multiplication, Division, etc
+  
   ```
          Operators                      Description                                Examples
          + Plus                  Add two numbers                                   3+3 = 6
@@ -35,4 +37,17 @@
                                  adjusted to the left in the number line.          >>> 5/2= 2
          **Exponent              Left operand is raised to the power of right     10 to the power of 30
   ```
+  
+  **Python (+)Addition Operator**
+  
+    Addition Operator in python is being used to add two operand values in python programming language.
+    
+    **Program**
+    ```
+    x = 10
+    y = 10
+    output = x + y
+    print ("x + y:", output)
+    ```
+    
   
