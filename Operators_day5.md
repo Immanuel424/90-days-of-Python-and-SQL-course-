@@ -53,7 +53,7 @@
     
     ```
     
-  **Python (-) Subtract Operator**
+  **Python (-)Subtract Operator**
   
   - Subtract Operator in python being used to subtract the values it usually Subtract the right hand operand from left hand operand.
 
@@ -67,4 +67,19 @@
    Result ===> x - y : 10
    
    ```
+   
+ **Python()Multiplication Operator**
+ 
+ - Multiplication operator in python being used to Multiply the values given
+ 
+ **Program**
+ 
+ ```
+ x = 10
+ y = 5
+ output : x * y
+ print ("x * y:", output)
+ Result ===> x * y : 50
+ 
+ ```
   
