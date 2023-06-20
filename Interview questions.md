@@ -248,8 +248,33 @@ Disadvantages:
    - Variable go to the adress and it will take the binary value from there and converts it to integer and gives the result.
  
 # Tokens in Python
-> Tokens are the Smallest Elements in the program
-  - 
+> Tokens are the smallest elements of a program, which are meaningful to the compiler.
+
+Following are the types of Tokens
+
+- Identifiers
+- Operators
+- literals
+- Keywords
+- Constant
+
+```
+Identifiers                Operators                  Literals
+    X                         =                          20
+
+```
+
+1 Identifiers -Usually Identifier is a Variable. A python identifier is a name used to identify the Variable,Function,classes,modules
+
+2 Operators - Operator are the special symbols in python that carryout arithmetic or logical computition.
+
+3 literals - Literals are raw values or data that are stored in variables/constants.
+
+4 Keywords - Keywords are the unique/reserved words with defined meaning, that we can only apply on for those functions, and we cannot use those keywords as a variables.
+
+5 Constants - Constants are the special type of variables, whose values are cannot be changed.
+
+
    
    
   
