@@ -219,6 +219,17 @@ Disadvantages:
 - Garbage collection is an automatic memory management mechanism in programming languages that helps reclaim memory that is no longer       needed for the program. It relieves the programmer from manually allocating and deallocating memory, reducing the risk of memory leaks   and memory-related bugs. 
 
 
+# Interview Questions on Variables, Data Structure
+
+1. Variables. Explain in detail 
+2. Tokens in python 
+3. Implicit casting vs Explicit casting 
+4. Type promotion 
+5. Explain about each function 
+	  print type id int float bool str list tuple dict set 
+6. == vs is 
+7. Difference between and or operators. Any two realtime examples 
+8. Keywords in python
 
 
    
