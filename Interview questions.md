@@ -231,7 +231,23 @@ Disadvantages:
 7. Difference between and or operators. Any two realtime examples 
 8. Keywords in python
 
-
+# Variables. Explain in details
+> Variables are the Containers which is used to store data/values. Variables are also called Identifiers.
+  In python we can define the variable by using 2 operation/process
+- Write Operation
+- Read Operation
+**write Operation**
+   - Python reads each variable from RHS to LHS
+   - and it will check whether it is a Value or expression
+   - if it is a value convert that value to binary format and create a adress and assign that address to the variable
+   - if it is a expression , simplify the expression first and get the final value and convert that value to binary and allocate memrory 
+     adress and assign that adress to the variable
+**Read Operation**
+   - Variable go to the adress and it will take the binary value from there and converts it to integer and gives the result.
+ 
+# Tokens in Python
+> Tokens are the Smallest Elements in the program
+  - 
    
    
   
