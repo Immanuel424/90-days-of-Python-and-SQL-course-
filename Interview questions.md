@@ -236,7 +236,7 @@ Disadvantages:
   In python we can define the variable by using 2 operation/process
 - Write Operation
 - Read Operation
-- 
+
 **write Operation**
    - Python reads each variable from RHS to LHS
    - and it will check whether it is a Value or expression
